@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+		    "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.mulcam.miniproj.dao.FileuploadDAO">
+
+	<insert id="insertFile" parameterType="fileupload">
+		<![CDATA[
+			insert into file
+			(id,file_num,filename,file_readcount,file_date) 
+			values (#{id},#{file_num},#{filename},#{file_readcount},now())
+		]]>
+	</insert>
+	
+	<select id="fileList" resultType="fileupload" parameterType="fileupload">
+		<![CDATA[
+			select * from letter where id=#{id}
+		]]>	
+	</select>
+	
+</mapper>
