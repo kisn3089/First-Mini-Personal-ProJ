@@ -335,18 +335,18 @@ audio {
                 <img src="${path}/resource/image/logo.png" class="ex stagger-item" onclick="location.href='/exhibit'">
             </span>
 
-<!--              <audio autoplay class="audio">
+            <audio autoplay class="audio">
                 <source src="artmusic.ogg" type="audio/ogg">
                 <source src="artmusic.mp3" type="audio/mp3">
-              </audio> -->
+            </audio>
               
-<!--  <iframe src="../silence.mp3" allow="autoplay" id="audio" style="display:none"></iframe>
+<%--<iframe src="../silence.mp3" allow="autoplay" id="audio" style="display:none"></iframe>--%>
 
-<audio id="audio" autoplay>
+<%--<audio id="audio" autoplay>--%>
 
-<source src="../artmusic.mp3">
+<%--<source src="../artmusic.mp3">--%>
 
-</audio>  -->
+<%--</audio>--%>
 
         </div>
 <jsp:include page="footer.jsp"/>
