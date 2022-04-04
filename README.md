@@ -1,4 +1,4 @@
-# Online Photo Exhibition
+# Online Personal Photo Exhibition
 ### 첫 개인 미니 프로젝트 -> 온라인 전시관
 
 ### 기획 의도
