@@ -73,7 +73,7 @@ public class MemberController {
 			memberService.login(id, password);
 			session.setAttribute("id", id);
 			model.addAttribute("login","true");
-			return "mini";
+			return "logindo";
 		} catch(Exception e) {
 			e.printStackTrace();
 			model.addAttribute("login","false");

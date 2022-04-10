@@ -179,7 +179,7 @@
                 </div>
 
                 <div class="mb-3 stagger-item" style="cursor: pointer;" id="jq">
-                    <a>약관동의</a>
+                    <a>약관동의 ▼</a>
                 </div>
 
                 <!-- 약관동의 -->
@@ -197,19 +197,19 @@
 
                                 <input type="checkbox" id="check_1" name="check_1" class="normal">
                                 <label for="check_1">이용약관 동의(필수)</label><br><br>
-                                <textarea name="" id="" style="background-color: rgb(235, 235, 235);">여러분을 환영합니다.
+                                <textarea name="" style="background-color: rgb(235, 235, 235);">여러분을 환영합니다.
                     네이버 서비스 및 제품(이하 ‘서비스’)을 이용해 주셔서 감사합니다. 본 약관은 다양한 네이버 서비스의 이용과 관련하여 네이버 서비스를 제공하는 네이버 주식회사(이하 ‘네이버’)와 이를 이용하는 네이버 서비스 회원(이하 ‘회원’) 또는 비회원과의 관계를 설명하며, 아울러 여러분의 네이버 서비스 이용에 도움이 될 수 있는 유익한 정보를 포함하고 있습니다.
                            </textarea><br>
 
                                 <input type="checkbox" id="check_2" name="check_2" class="normal">
                                 <label for="check_2">개인정보 수집 및 이용(필수)</label><br><br>
-                                <textarea name="" id="" style="background-color: rgb(235, 235, 235);">여러분을 환영합니다.
+                                <textarea name=""  style="background-color: rgb(235, 235, 235);">여러분을 환영합니다.
                             네이버 서비스 및 제품(이하 ‘서비스’)을 이용해 주셔서 감사합니다. 본 약관은 다양한 네이버 서비스의 이용과 관련하여 네이버 서비스를 제공하는 네이버 주식회사(이하 ‘네이버’)와 이를 이용하는 네이버 서비스 회원(이하 ‘회원’) 또는 비회원과의 관계를 설명하며, 아울러 여러분의 네이버 서비스 이용에 도움이 될 수 있는 유익한 정보를 포함하고 있습니다.
                                    </textarea><br>
 
                                 <input type="checkbox" id="check_3" name="check_3" class="normal">
                                 <label for="check_3">위치정보 이용약관(선택)</label><br><br>
-                                <textarea name="" id="" style="background-color: rgb(235, 235, 235);">여러분을 환영합니다.
+                                <textarea name=""  style="background-color: rgb(235, 235, 235);">여러분을 환영합니다.
                             네이버 서비스 및 제품(이하 ‘서비스’)을 이용해 주셔서 감사합니다. 본 약관은 다양한 네이버 서비스의 이용과 관련하여 네이버 서비스를 제공하는 네이버 주식회사(이하 ‘네이버’)와 이를 이용하는 네이버 서비스 회원(이하 ‘회원’) 또는 비회원과의 관계를 설명하며, 아울러 여러분의 네이버 서비스 이용에 도움이 될 수 있는 유익한 정보를 포함하고 있습니다.
                                    </textarea><br>
 
