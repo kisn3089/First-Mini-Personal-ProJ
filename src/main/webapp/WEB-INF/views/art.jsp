@@ -336,8 +336,8 @@ audio {
             </span>
 
             <audio autoplay class="audio">
-                <source src="artmusic.ogg" type="audio/ogg">
-                <source src="artmusic.mp3" type="audio/mp3">
+                <source src="../../resource/image/artmusic.ogg" type="audio/ogg">
+                <source src="../../resource/image/artmusic.mp3" type="audio/mp3">
             </audio>
               
 <%--<iframe src="../silence.mp3" allow="autoplay" id="audio" style="display:none"></iframe>--%>

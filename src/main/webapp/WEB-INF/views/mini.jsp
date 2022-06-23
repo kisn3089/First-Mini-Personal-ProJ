@@ -196,7 +196,7 @@
             <!-- 슬라이드 쇼 img -->
             <div class="container">
                 <!-- Carousel -->
-                <div id="demo" class="carousel slide stagger-item" data-bs-ride="carousel" style="height: 660px; margin-top: 150px;">
+                <div id="demo" class="carousel-dark slide stagger-item" data-bs-ride="carousel" style="height: 660px; margin-top: 150px;">
 
                     <!-- Indicators/dots -->
                     <div class="carousel-indicators">
@@ -220,10 +220,10 @@
 
                     <!-- Left and right controls/icons -->
                     <button class="carousel-control-prev" type="button" data-bs-target="#demo" data-bs-slide="prev">
-                        <span class="carousel-control-prev-icon"></span>
+                        <span class="carousel-control-prev-icon" style="margin-right: 50px"></span>
                     </button>
                     <button class="carousel-control-next" type="button" data-bs-target="#demo" data-bs-slide="next">
-                        <span class="carousel-control-next-icon"></span>
+                        <span class="carousel-control-next-icon" style="margin-left: 50px"></span>
                     </button>
                 </div>
 
